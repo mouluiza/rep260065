@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/quando o estojo cai no ch\xE3o.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
